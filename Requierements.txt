@@ -1,6 +1,7 @@
 BeautifulSoup4 == 4.13.4
 bs4==0.0.2
 requests==2.32.4
+tqdm
 
 
 
