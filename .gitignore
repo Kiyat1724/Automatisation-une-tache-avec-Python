@@ -1,0 +1,7 @@
+#Ignorer tous les fichiers ayant l'extension.csv
+*.csv
+
+#Ignorer 
+.venv
+#Ignorer
+*.jpg
